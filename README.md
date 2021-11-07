@@ -1,3 +1,6 @@
-- 👋 こんにちはoka yuujiです
-- 👀 iOS
-- 🌱 現在はSwiftUIを主に使用して個人開発を行っています
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=yuujioka&count_private=true&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuujioka" />
+</a>
